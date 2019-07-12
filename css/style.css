@@ -6,6 +6,20 @@
  * Made By MaterializeCSS.com
  */
 
+.sub-title-row {
+  margin-top: 5em;
+}
+
+.sub-title {
+  background-color: #FFFC;
+  border-radius: 3em;
+  line-height: 2rem;
+  margin-right: : 1rem;
+  margin-left: margin-left: : 1rem;
+  font-size: 1.2em;
+
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
