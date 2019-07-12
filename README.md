@@ -1,4 +1,4 @@
 Elevated Dog Training Website
 =============================
 
-Website for my company.
+Website for my company!
